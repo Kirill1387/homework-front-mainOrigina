@@ -20,7 +20,8 @@ export const HW1 = () => {
 		age: number,
 		address: {
 			street: string,
-			city: string}
+			city: string
+		}
 	};
 
 	const users = [
